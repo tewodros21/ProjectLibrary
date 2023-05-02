@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+}
+
+form {
+  background-color: whitesmoke;
+  padding: 1rem;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  width: 50%;
+  border-radius: 10px;
+}
+
+.btns {
+  padding: 1rem;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+  border: 1rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+
+  border-radius: 10px;
+  padding: 5px;
+  width: 400px;
+}
